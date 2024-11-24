@@ -2,7 +2,7 @@ Este script foi desenvolvido para verificar se um site utiliza o protocolo HTTPS
 
 Para utilizar, inclua a url do site na variável URL, conforme indicada imagem abaixo:
 
-![image](https://github.com/user-attachments/assets/db82d6df-2fec-46a9-ab17-9e1d86158bf1)
+![image](https://github.com/user-attachments/assets/65aa9bef-ab66-4715-a383-09e85c96ce65)
 
 
 
